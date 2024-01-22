@@ -1,12 +1,18 @@
 <p align="center">
-  Ayo! 👋
+ Ayo! 👋
+<br/>
+<br/>
+ Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.
 </p>
 
-___Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.___ 
-<br/>
-<br/>
+<p align="center">
 
-### :hammer_and_wrench: Languages and Tools:
+</p>
+<br/>
+<br/>
+<p align="center">
+:hammer_and_wrench: Languages and Tools:
+</p>
   
   <div align="center"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title ="photoshop" width="40" height = "40"/>&nbsp;
@@ -16,11 +22,12 @@ ___Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.___
   </div>
 <br/>
 <br/>
-
-### 🌐 MY SOCIALs
- [INSTAGRAM]
+<p align="center">
+🌐 MY SOCIALs
+   [INSTAGRAM]
 
   [INSTAGRAM]: https://www.instagram.com/autoflapy.y
+</p>
 <br/>
 <br/>
 
