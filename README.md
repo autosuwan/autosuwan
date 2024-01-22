@@ -4,10 +4,6 @@
 <br/>
  Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.
 </p>
-
-<p align="center">
-
-</p>
 <br/>
 <br/>
 <p align="center">
@@ -22,6 +18,7 @@
   </div>
 <br/>
 <br/>
+
   - [ ] Coding
   - [ ] Learning
   - [x] Playing
