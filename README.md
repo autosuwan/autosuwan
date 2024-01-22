@@ -11,6 +11,7 @@
   </div>
 
 ### MY SOCIALs
+  [INSTAGRAM]
   [INSTAGRAM] : https://www.instagram.com/autoflapy.y
 
   - [ ] Coding
