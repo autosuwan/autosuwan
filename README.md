@@ -1,4 +1,4 @@
-# Ayo! 👋
+<h align="center"> Ayo! 👋</h1>
 
 ___Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.___ 
 <br/>
