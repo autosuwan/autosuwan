@@ -2,7 +2,6 @@
 
 ___CS Student of Kasetsart University.___ 
 <br/>
-
 <br/>
 
 ### :hammer_and_wrench: Languages and Tools:
@@ -13,7 +12,6 @@ ___CS Student of Kasetsart University.___
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="python" width="40" height = "40"/>&nbsp;
   </div>
 <br/>
-
 <br/>
 
 ### MY SOCIALs
@@ -21,7 +19,6 @@ ___CS Student of Kasetsart University.___
 
   [INSTAGRAM]: https://www.instagram.com/autoflapy.y
 <br/>
-
 <br/>
 
   - [ ] Coding
