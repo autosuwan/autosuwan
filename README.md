@@ -1,6 +1,6 @@
-# Ayo! 👋 | Suhwan 😎 | 💻 | 🏸 | 🎹 
+# Ayo! 👋 |
 
-___CS Student of Kasetsart University.___ 
+___Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.___ 
 <br/>
 <br/>
 
