@@ -14,7 +14,7 @@ ___CS Student of Kasetsart University.___
 <br/>
 <br/>
 
-### MY SOCIALs
+### 🌐 MY SOCIALs
 [INSTAGRAM]
 
   [INSTAGRAM]: https://www.instagram.com/autoflapy.y
