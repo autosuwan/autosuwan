@@ -1,4 +1,4 @@
-# Ayo! 👋 |
+# Ayo! 👋
 
 ___Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.___ 
 <br/>
