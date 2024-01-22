@@ -27,7 +27,10 @@
  INSTAGRAM: https://www.instagram.com/autoflapy.y
 <br/>
 <br/>
+</p>
+
+INSTAGRAM: https://www.instagram.com/autoflapy.y
+
   - [ ] Coding
   - [ ] Learning
   - [x] Playing
-</p>
