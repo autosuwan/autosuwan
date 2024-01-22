@@ -24,14 +24,10 @@
 <br/>
 <p align="center">
 🌐 MY SOCIALs
-   [INSTAGRAM]
-
-  [INSTAGRAM]: https://www.instagram.com/autoflapy.y
-</p>
+ INSTAGRAM: https://www.instagram.com/autoflapy.y
 <br/>
 <br/>
-
   - [ ] Coding
   - [ ] Learning
   - [x] Playing
-
+</p>
