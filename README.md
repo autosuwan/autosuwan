@@ -11,14 +11,10 @@
   </div>
 
 ### MY SOCIALs
-  [INSTAGRAM]
-  [INSTAGRAM] : https://www.instagram.com/autoflapy.y
+[INSTAGRAM]
 
-  ติดตาม BorntoDev ได้ที่ [Facebook] | [YouTube] | [Instagram]
+  [INSTAGRAM]: https://www.instagram.com/autoflapy.y
 
-[Facebook]: https://www.facebook.com/borntodev
-[YouTube]: https://www.youtube.com/c/BorntodevTH
-[Instagram]: https://www.instagram.com/borntodev
 
   - [ ] Coding
   - [ ] Learning
