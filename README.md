@@ -14,6 +14,12 @@
   [INSTAGRAM]
   [INSTAGRAM] : https://www.instagram.com/autoflapy.y
 
+  ติดตาม BorntoDev ได้ที่ [Facebook] | [YouTube] | [Instagram]
+
+[Facebook]: https://www.facebook.com/borntodev
+[YouTube]: https://www.youtube.com/c/BorntodevTH
+[Instagram]: https://www.instagram.com/borntodev
+
   - [ ] Coding
   - [ ] Learning
   - [x] Playing
