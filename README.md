@@ -4,8 +4,6 @@
 <br/>
  Suhwan 😎 | 💻 | 🏸 | 🎹 | CS Student of Kasetsart University.
 </p>
-<br/>
-<br/>
 <p align="center">
 :hammer_and_wrench: Languages and Tools:
 </p>
