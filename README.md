@@ -21,4 +21,4 @@
   - [ ] Learning
   - [x] Playing
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/xUOrwmiItGBYVGzKCI/giphy.gif)
