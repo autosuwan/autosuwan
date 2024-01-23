@@ -20,3 +20,5 @@
   - [ ] Coding
   - [ ] Learning
   - [x] Playing
+
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/applemusic-dance-dj-khaled-xUOrwmiItGBYVGzKCI)https://giphy.com/gifs/applemusic-dance-dj-khaled-xUOrwmiItGBYVGzKCI)
