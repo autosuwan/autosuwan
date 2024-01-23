@@ -21,4 +21,4 @@
   - [ ] Learning
   - [x] Playing
 
-![Alt Text](https://media.giphy.com/media/xUOrwmiItGBYVGzKCI/giphy.gif)
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
