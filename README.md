@@ -22,3 +22,7 @@
   - [x] Playing
 
 ![Alt Text](https://media.giphy.com/media/xUOrwmiItGBYVGzKCI/giphy.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOrwmiItGBYVGzKCI/giphy.gif" alt="animated" />
+</p>
